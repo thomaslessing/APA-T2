@@ -71,6 +71,7 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 
 #### Código desarrollado
 
+```python
 """
 
 Thomas Lessing
@@ -246,6 +247,8 @@ def mcdN(*numeros):
 
 if __name__ == "__main__":
     doctest.testmod(verbose=True)
+
+ 
 
 #### Subida del resultado al repositorio GitHub ¿y *pull-request*?
 
